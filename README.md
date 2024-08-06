@@ -1,2 +1,2 @@
-# Random-generative-password-
-Random generative password using html,css,js
+[Random generative password .docx](https://github.com/user-attachments/files/16505762/Random.generative.password.docx)
+
